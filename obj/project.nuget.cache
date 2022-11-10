@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2FbRN86dGiopgARIw1OdwMzI1VfFM3BYuv0nsTqbdAtdIdR2lhtJsiEj8zabacrtNRVFd6Gye5BWdYiFg+0cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lukas\\Documents\\RiderProjectsUSB backup 2022-10-19\\Invaders\\Invaders\\Invaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
